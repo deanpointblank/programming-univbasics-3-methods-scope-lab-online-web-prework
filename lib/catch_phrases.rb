@@ -9,6 +9,10 @@ def toadstool
 end
 
 def link
-  dododo = "It's Dangerous To Go Alone! Take This."
-  puts dododo
+  dodododo = "It's Dangerous To Go Alone! Take This."
+  puts dodododo
+end
+
+def any_phrase(phrase)
+  puts "#{phrase}"
 end
